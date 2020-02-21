@@ -1,3 +1,4 @@
+
 # Encapsulation
 encapsulations is when making a object private inside a class.No other defined object can call upon the object.
 the object controls its functions and cannot be changed by other objects.
