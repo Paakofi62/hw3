@@ -1,5 +1,5 @@
 def draw_triangle(t):
-    for i in range(5)
+    for i in range(5):
         t.down()
         t.fd(50)
         t.right(72)
