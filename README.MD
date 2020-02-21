@@ -1,6 +1,7 @@
 #Encapsulation
 encapsulations is when making a object private inside a class.No other defined object can call upon the object.
 the object controls its functions and cannot be changed by other objects.
+##
 #Abstraction
 abstractions hides the internal details of an object, it only shows the relevant operations to other odjects.
 Absractions is like a remote, the remote shows the key buttons but inside the remote is the circuit board.
