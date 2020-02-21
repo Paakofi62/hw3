@@ -1,4 +1,13 @@
+language: python
+python:
+  - "3.7"
+# command to run tests
+script:
+  - python -m  unittest discover -s  Tests
 
+branches:
+  only:
+    - master
 # Encapsulation
 encapsulations is when making a object private inside a class.No other defined object can call upon the object.
 the object controls its functions and cannot be changed by other objects.
