@@ -20,4 +20,4 @@ for name in (obj_mark, obj_alex):
     name.favoriteSoccerTeam()
     name.favoriteFootballTeam()
 
-'This is an example of polymorphism'
+"This is an example of polymorphism"
