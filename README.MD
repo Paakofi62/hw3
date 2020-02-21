@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/Paakofi62/hw3.svg?branch=master)](https://travis-ci.org/Paakofi62/hw3)
 # Encapsulation
 encapsulations is when making a object private inside a class.No other defined object can call upon the object.
 the object controls its functions and cannot be changed by other objects.
